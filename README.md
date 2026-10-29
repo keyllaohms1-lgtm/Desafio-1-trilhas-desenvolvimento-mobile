@@ -35,12 +35,6 @@ Ferramentas:
 - Visual Studio Code, utilizado para desenvolver e editar o projeto.
 - GitHub, utilizado para armazenar e disponibilizar o projeto.
 
-Captura de tela
-
-![Captura de tela da loja](<img width="1920" height="1080" alt="desafio trilha1" src="https://github.com/user-attachments/assets/c0fa8ea3-5ea3-438b-afa7-d770788160e8" />
-)
-
-
 Testes realizados
 
 Foram realizados alguns testes para verificar o funcionamento da simulação de compra.
