@@ -35,6 +35,15 @@ Ferramentas:
 - Visual Studio Code, utilizado para desenvolver e editar o projeto.
 - GitHub, utilizado para armazenar e disponibilizar o projeto.
 
+Como executar o projeto:
+
+1. Baixe ou clone o repositório.
+2. Abra a pasta do projeto no Visual Studio Code.
+3. Abra o arquivo `index.html` no navegador.
+4. Clique no botão "Simular compra".
+5. Informe a quantidade desejada de cada produto.
+6. Confira o resultado apresentado pelo JavaScript.
+
 Testes realizados
 
 Foram realizados alguns testes para verificar o funcionamento da simulação de compra.
