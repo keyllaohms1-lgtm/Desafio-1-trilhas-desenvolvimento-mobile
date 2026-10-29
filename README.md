@@ -44,6 +44,11 @@ Como executar o projeto:
 5. Informe a quantidade desejada de cada produto.
 6. Confira o resultado apresentado pelo JavaScript.
 
+CAPTURA DA TELA:
+<img width="1920" height="1080" alt="desafio trilha1" src="https://github.com/user-attachments/assets/1709e702-0f24-4398-b78a-15a40bac9b6e" />
+<img width="1920" height="1080" alt="desafio trilha 2" src="https://github.com/user-attachments/assets/a8d5e48a-e876-4eb5-a953-4030436df00e" />
+
+
 Testes realizados
 
 Foram realizados alguns testes para verificar o funcionamento da simulação de compra.
